@@ -1,3 +1,5 @@
+package Atividade1;
+
 public class Main {
     public static void main(String[] args) {
         Renault renault = new Renault(2019, 35000, "Prata", 4, 0);
